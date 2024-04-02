@@ -1,0 +1,27 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscarlos-ja/multiplayer-pong.git"
+  },
+  "keywords": [
+    "sockets",
+    "node.js",
+    "socket.io"
+  ],
+  "author": "Luis Carlos Juarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiscarlos-ja/multiplayer-pong/issues"
+  },
+  "homepage": "https://github.com/luiscarlos-ja/multiplayer-pong#readme",
+  "dependencies": {
+    "socket.io": "4.7.5"
+  }
+}
